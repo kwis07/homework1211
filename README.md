@@ -1,5 +1,5 @@
 
-![css](link rel="stylesheet" href="https://github.com/kwis07/homework1211/blob/main/Assets/css/index.css">)
+.https://github.com/kwis07/homework1211/blob/main/Assets/css/index.css
 
 Horiseon
 ========
