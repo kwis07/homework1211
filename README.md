@@ -7,8 +7,8 @@
     <title>Homework</title>
 </head>
 
-/* <body> */ 
-    /* <nav class="header"> /* 
+<body>  
+    <nav class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
         <div>
             <ul>
