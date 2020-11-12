@@ -7,6 +7,8 @@
     <title>Homework</title>
 </head>
 
+![main](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_digital-marketing-meeting.jpg)
+
 <body>
     <nav class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
