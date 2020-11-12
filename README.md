@@ -1,5 +1,4 @@
 
-.https://github.com/kwis07/homework1211/blob/main/Assets/css/index.css
 
 Horiseon
 ========
