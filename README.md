@@ -1,4 +1,4 @@
-![Image 1](assets/images/assets_images_digital-marketing-meeting.jpg)
+![Image 1](homework1211/assets/images/assets_images_digital-marketing-meeting.jpg)
 
 
 <!DOCTYPE html>
