@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="https://github.com/kwis07/homework1211/blob/main/Assets/css/index.css">
+![css](link rel="stylesheet" href="https://github.com/kwis07/homework1211/blob/main/Assets/css/index.css">)
 
 Horiseon
 ========
@@ -10,10 +10,13 @@ Horiseon
 
 ![image 1](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_digital-marketing-meeting.jpg)
 
-![image 2](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_search-engine-optimization.jpg)
+
 
 Search Engine Optimization
 --------------------------
+
+
+![image 2](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_search-engine-optimization.jpg)
 
 The dominance of mobile internet use means that users are searching for
 the right business as they travel, shop, or sit on their couch at home.
