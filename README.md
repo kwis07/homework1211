@@ -23,10 +23,14 @@ the right business as they travel, shop, or sit on their couch at home.
 Search Engine Optimization (SEO) allows you to increase your visibility
 and find the right customers for your business.
 
-![](assets/images/assets_images_online-reputation-management.jpg)
 
 Online Reputation Management
 ----------------------------
+
+
+![image 3](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_online-reputation-management.jpg)
+
+
 
 The web is full of opinions, and some of these can be negative. Social
 media allows anyone with an internet connection to say whatever they
@@ -34,10 +38,12 @@ want about your business. Online Reputation Management gives you the
 control over what potential customers see when they search for your
 business.
 
-![](assets/images/assets_images_social-media-marketing.jpg)
+
 
 Social Media Marketing
 ----------------------
+
+![image 4](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_social-media-marketing.jpg)
 
 Social media continues to have a sizable influence on buying habits.
 Social media marketing helps you determine which platforms are suited to
@@ -46,7 +52,8 @@ lead generation.
 
 ### Lead Generation
 
-![](assets/images/assets_images_lead-generation.png)
+
+![image 5](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_lead-generation.png)
 
 Inbound strategies for lead generation require less work for your
 business, bringing customers directly to your website.
@@ -55,12 +62,16 @@ business, bringing customers directly to your website.
 
 ![](assets/images/assets_images_brand-awareness.png)
 
+![image 4](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_social-media-marketing.jpg)
+
 Users find your business through paid and organic searches, increasing
 the search ranking and visibility for your business.
 
 ### Cost Management
 
 ![](assets/images/assets_images_cost-management.png)
+
+![image 4](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_social-media-marketing.jpg)
 
 As the search ranking for your business increases, your advertising
 costs decrease, and you no longer need to advertise your page.
