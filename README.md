@@ -7,7 +7,7 @@ Horiseon
 
 ![image 1](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_digital-marketing-meeting.jpg)
 
-![](assets/images/assets_images_search-engine-optimization.jpg)
+![image 2](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_search-engine-optimization.jpg)
 
 Search Engine Optimization
 --------------------------
