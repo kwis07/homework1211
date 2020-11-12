@@ -7,7 +7,6 @@
     <title>Homework</title>
 </head>
 
-![main](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_digital-marketing-meeting.jpg)
 
 <body>
     <nav class="header">
@@ -39,7 +38,7 @@
 
     <section class="content">
         <div id="search-engine-optimization" class="search-engine-optimization">
-            <img src="assets/images/assets_images_search-engine-optimization.jpg" class="float-left" />
+            <img src="https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_search-engine-optimization.jpg" class="float-left" />
             <h2>Search Engine Optimization</h2>
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
