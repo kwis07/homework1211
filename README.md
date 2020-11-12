@@ -60,9 +60,8 @@ business, bringing customers directly to your website.
 
 ### Brand Awareness
 
-![](assets/images/assets_images_brand-awareness.png)
 
-![image 4](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_social-media-marketing.jpg)
+![image 6](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_brand-awareness.png)
 
 Users find your business through paid and organic searches, increasing
 the search ranking and visibility for your business.
@@ -71,7 +70,7 @@ the search ranking and visibility for your business.
 
 ![](assets/images/assets_images_cost-management.png)
 
-![image 4](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_social-media-marketing.jpg)
+![image 7](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_cost-management.png)
 
 As the search ranking for your business increases, your advertising
 costs decrease, and you no longer need to advertise your page.
