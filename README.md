@@ -1,3 +1,6 @@
+![Image 1](assets/images/assets_images_digital-marketing-meeting.jpg)
+
+
 <!DOCTYPE html>
 <html lang="en-us">
 
