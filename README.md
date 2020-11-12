@@ -1,6 +1,4 @@
-![Image 1](homework1211/assets/images/assets_images_digital-marketing-meeting.jpg)
-
-
+![alt text](https://github.com/kwis07/homework1211/blob/main/Assets/images/assets_images_digital-marketing-meeting.jpg)
 <!DOCTYPE html>
 <html lang="en-us">
 
